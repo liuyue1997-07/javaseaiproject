@@ -1,7 +1,7 @@
 package com.liuyue.Task;
 
 import java.util.Scanner;
-
+//输出验证码
 public class Task3 {
     public static void main(String[] args) {
 
